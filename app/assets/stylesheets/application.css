@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ .background-span{
+  padding: 10px;
+  background: rgb(52,152,220);
+  color: white;
+  box-shadow: 0 0 gray;
+ }
+
+ div{
+  margin-bottom: 20px;
+ }
+ h1{
+  margin-bottom: 50px;
+ }
